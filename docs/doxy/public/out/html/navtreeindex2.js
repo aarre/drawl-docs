@@ -1,5 +1,7 @@
 var NAVTREEINDEX2 =
 {
+"dc/d94/classcom_1_1aarrelaakso_1_1drawl_1_1_text.html#aeffa96786ca552adf46924ec77da9555":[2,0,0,0,0,16,30],
+"dc/d94/classcom_1_1aarrelaakso_1_1drawl_1_1_text.html#af6fea9610721de462c18ee640043aba7":[2,0,0,0,0,16,2],
 "dc/d94/classcom_1_1aarrelaakso_1_1drawl_1_1_text.html#af8182545b3b1c85ecaee849474f63c6b":[2,0,0,0,0,16,20],
 "dc/dcc/_shape_explicit_8java.html":[3,0,0,0,0,0,0,0,14],
 "dc/dd1/_arrowhead_example_8java.html":[3,0,0,0,0,0,0,0,0,0],
@@ -103,8 +105,8 @@ var NAVTREEINDEX2 =
 "functions_d.html":[2,3,0,3],
 "functions_e.html":[2,3,0,4],
 "functions_f.html":[2,3,0,5],
-"functions_func.html":[2,3,1],
 "functions_func.html":[2,3,1,0],
+"functions_func.html":[2,3,1],
 "functions_func_b.html":[2,3,1,1],
 "functions_func_c.html":[2,3,1,2],
 "functions_func_d.html":[2,3,1,3],

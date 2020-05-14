@@ -84,6 +84,7 @@ $(document).ready(function(){initNavTree('d2/d07/classcom_1_1aarrelaakso_1_1draw
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-attribs">Static Public Attributes</a> &#124;
 <a href="#pro-methods">Protected Member Functions</a> &#124;
 <a href="../../d2/dd5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending-members.html">List of all members</a>  </div>
   <div class="headertitle">
@@ -93,11 +94,6 @@ $(document).ready(function(){initNavTree('d2/d07/classcom_1_1aarrelaakso_1_1draw
 
 <p>Represents heads or tails on the ends of Lines.  
  <a href="../../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#details">More...</a></p>
-<div class="dynheader">
-Collaboration diagram for com.aarrelaakso.drawl.LineEnding:</div>
-<div class="dyncontent">
-<div class="center"><img src="../../d0/db7/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending__coll__graph.png" border="0" usemap="#com_8aarrelaakso_8drawl_8_line_ending_coll__map" alt="Collaboration graph"/></div>
-</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
@@ -113,6 +109,14 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:acd36154a030301e72b9c41de1b42d8bf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#acd36154a030301e72b9c41de1b42d8bf">LineEnding</a> (@NotNull LineEnding.Type type)</td></tr>
 <tr class="memdesc:acd36154a030301e72b9c41de1b42d8bf"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructs an line ending of a particular type.  <a href="#acd36154a030301e72b9c41de1b42d8bf">More...</a><br /></td></tr>
 <tr class="separator:acd36154a030301e72b9c41de1b42d8bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4ce6efbfc8ed0129482c6105ded54877"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a4ce6efbfc8ed0129482c6105ded54877">setFill</a> (String fillColor)</td></tr>
+<tr class="separator:a4ce6efbfc8ed0129482c6105ded54877"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-attribs"></a>
+Static Public Attributes</h2></td></tr>
+<tr class="memitem:a79fa3953c05f8a1dfe1669fdda242ce2"><td class="memItemLeft" align="right" valign="top">static EnumSet&lt; <a class="el" href="../../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html">Type</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a79fa3953c05f8a1dfe1669fdda242ce2">OpenType</a> = EnumSet.of(<a class="el" href="../../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#af07aa0aa4f1de58f3eb19da4f8fc4ba2">Type.CIRCLE</a>, <a class="el" href="../../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a13f6d6fbec0c37e1b87096ceb067ee6b">Type.OPEN_DIAMOND</a>, <a class="el" href="../../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a4c9d73e9e0f20637712c6a8183742eee">Type.OPEN_DOT</a>)</td></tr>
+<tr class="memdesc:a79fa3953c05f8a1dfe1669fdda242ce2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Enumerates the <a class="el" href="../../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html" title="Represents heads or tails on the ends of Lines. ">LineEnding</a> types that have open figures.  <a href="#a79fa3953c05f8a1dfe1669fdda242ce2">More...</a><br /></td></tr>
+<tr class="separator:a79fa3953c05f8a1dfe1669fdda242ce2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
@@ -199,14 +203,6 @@ Protected Member Functions</h2></td></tr>
 <p>Returns the canonical representation of this line ending type. </p>
 <p>For example, this function returns <a class="el" href="../../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a175880412926b2126d70c22ae7396009">Type.TRIANGLE</a> if the line ending type is <a class="el" href="../../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a60839eb2ed0486a6f9f987c64d27e313">Type.DEFAULT</a>, <a class="el" href="../../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a1f96f154af5043259b200495ec8b2af6">Type.NORMAL</a>, or <a class="el" href="../../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a175880412926b2126d70c22ae7396009">Type.TRIANGLE</a>.</p>
 <dl class="section return"><dt>Returns</dt><dd>the canonical representation of this line ending type. </dd></dl>
-<div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="../../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_a37d765d892d173660eef0f321781f455_icgraph.png" border="0" usemap="#d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_a37d765d892d173660eef0f321781f455_icgraph" alt=""/></div>
-<map name="d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_a37d765d892d173660eef0f321781f455_icgraph" id="d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_a37d765d892d173660eef0f321781f455_icgraph">
-<area shape="rect" id="node2" href="../../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a30fe25c0bc92fe34abffcd1b16248605" title="com.aarrelaakso.drawl.Line\lEnding.getSVGDef" alt="" coords="235,5,416,47"/>
-</map>
-</div>
 
 </div>
 </div>
@@ -232,19 +228,54 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="../../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_a30fe25c0bc92fe34abffcd1b16248605_cgraph.png" border="0" usemap="#d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_a30fe25c0bc92fe34abffcd1b16248605_cgraph" alt=""/></div>
-<map name="d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_a30fe25c0bc92fe34abffcd1b16248605_cgraph" id="d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_a30fe25c0bc92fe34abffcd1b16248605_cgraph">
-<area shape="rect" id="node2" href="../../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a37d765d892d173660eef0f321781f455" title="Returns the canonical representation of this line ending type. " alt="" coords="235,5,416,47"/>
-</map>
+
 </div>
+</div>
+<a id="a4ce6efbfc8ed0129482c6105ded54877"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4ce6efbfc8ed0129482c6105ded54877">&#9670;&nbsp;</a></span>setFill()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void com.aarrelaakso.drawl.LineEnding.setFill </td>
+          <td>(</td>
+          <td class="paramtype">String&#160;</td>
+          <td class="paramname"><em>fillColor</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a79fa3953c05f8a1dfe1669fdda242ce2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a79fa3953c05f8a1dfe1669fdda242ce2">&#9670;&nbsp;</a></span>OpenType</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">EnumSet&lt;<a class="el" href="../../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html">Type</a>&gt; com.aarrelaakso.drawl.LineEnding.OpenType = EnumSet.of(<a class="el" href="../../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#af07aa0aa4f1de58f3eb19da4f8fc4ba2">Type.CIRCLE</a>, <a class="el" href="../../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a13f6d6fbec0c37e1b87096ceb067ee6b">Type.OPEN_DIAMOND</a>, <a class="el" href="../../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a4c9d73e9e0f20637712c6a8183742eee">Type.OPEN_DOT</a>)</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Enumerates the <a class="el" href="../../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html" title="Represents heads or tails on the ends of Lines. ">LineEnding</a> types that have open figures. </p>
 
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/mnt/d/OneDrive/Documents/src/drawl/src/main/java/com/aarrelaakso/drawl/<a class="el" href="../../d5/d72/_line_ending_8java.html">LineEnding.java</a></li>
+<li>/mnt/d/OneDrive/Documents/src/drawl-git/src/main/java/com/aarrelaakso/drawl/<a class="el" href="../../d5/d72/_line_ending_8java.html">LineEnding.java</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
@@ -252,7 +283,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/dee/namespacecom.html">com</a></li><li class="navelem"><a class="el" href="../../d4/d61/namespacecom_1_1aarrelaakso.html">aarrelaakso</a></li><li class="navelem"><a class="el" href="../../dd/d8e/namespacecom_1_1aarrelaakso_1_1drawl.html">drawl</a></li><li class="navelem"><a class="el" href="../../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html">LineEnding</a></li>
-    <li class="footer">Generated on Wed May 13 2020 19:45:31 for Drawl by
+    <li class="footer">Generated on Thu May 14 2020 03:54:15 for Drawl by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

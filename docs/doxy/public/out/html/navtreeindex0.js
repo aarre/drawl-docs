@@ -10,6 +10,8 @@ var NAVTREEINDEX0 =
 "d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html":[2,0,0,0,0,6],
 "d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a30fe25c0bc92fe34abffcd1b16248605":[2,0,0,0,0,6,4],
 "d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a37d765d892d173660eef0f321781f455":[2,0,0,0,0,6,3],
+"d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a4ce6efbfc8ed0129482c6105ded54877":[2,0,0,0,0,6,5],
+"d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a79fa3953c05f8a1dfe1669fdda242ce2":[2,0,0,0,0,6,6],
 "d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#acd36154a030301e72b9c41de1b42d8bf":[2,0,0,0,0,6,2],
 "d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#ae3ae4bbd1469b24e585b8626872c66a9":[2,0,0,0,0,6,1],
 "d2/d45/_shape_8java.html":[3,0,0,0,0,0,0,0,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX0 =
 "d6/d1c/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_line_example.html#a2e44cc23cd7863a19e87313fa4d7f6c3":[2,0,0,0,0,0,1,0],
 "d6/d66/_text_example_8java.html":[3,0,0,0,0,0,0,0,0,5],
 "d7/d1d/_drawl_number_8java.html":[3,0,0,0,0,0,0,0,3],
-"d7/d81/classcom_1_1aarrelaakso_1_1drawl_1_1_s_v_g.html":[2,0,0,0,0,15],
-"d7/db4/package-info_8java.html":[3,0,0,0,0,0,0,0,10],
-"d7/df1/_sisu_number_remainder_pair_8java.html":[3,0,0,0,0,0,0,0,16]
+"d7/d81/classcom_1_1aarrelaakso_1_1drawl_1_1_s_v_g.html":[2,0,0,0,0,15]
 };

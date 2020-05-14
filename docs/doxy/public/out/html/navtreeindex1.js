@@ -1,5 +1,7 @@
 var NAVTREEINDEX1 =
 {
+"d7/db4/package-info_8java.html":[3,0,0,0,0,0,0,0,10],
+"d7/df1/_sisu_number_remainder_pair_8java.html":[3,0,0,0,0,0,0,0,16],
 "d7/df9/namespacecom_1_1aarrelaakso_1_1drawl_1_1examples.html":[1,0,0,0,0,0],
 "d7/df9/namespacecom_1_1aarrelaakso_1_1drawl_1_1examples.html":[2,0,0,0,0,0],
 "d8/d0b/classcom_1_1aarrelaakso_1_1drawl_1_1_drawing.html":[2,0,0,0,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX1 =
 "dc/d94/classcom_1_1aarrelaakso_1_1drawl_1_1_text.html#aca08f18bbe102a5cf6a77cb746d42875":[2,0,0,0,0,16,8],
 "dc/d94/classcom_1_1aarrelaakso_1_1drawl_1_1_text.html#acc3e365064b5d4f719ac920a5a70aedb":[2,0,0,0,0,16,51],
 "dc/d94/classcom_1_1aarrelaakso_1_1drawl_1_1_text.html#acebea2aa57031322323c9bf50ee447db":[2,0,0,0,0,16,3],
-"dc/d94/classcom_1_1aarrelaakso_1_1drawl_1_1_text.html#aed4e9caa294aacc973b7a531a960e9e5":[2,0,0,0,0,16,36],
-"dc/d94/classcom_1_1aarrelaakso_1_1drawl_1_1_text.html#aeffa96786ca552adf46924ec77da9555":[2,0,0,0,0,16,30],
-"dc/d94/classcom_1_1aarrelaakso_1_1drawl_1_1_text.html#af6fea9610721de462c18ee640043aba7":[2,0,0,0,0,16,2]
+"dc/d94/classcom_1_1aarrelaakso_1_1drawl_1_1_text.html#aed4e9caa294aacc973b7a531a960e9e5":[2,0,0,0,0,16,36]
 };
