@@ -1,6 +1,7 @@
 var hierarchy =
 [
     [ "com.aarrelaakso.drawl.examples.ArrowheadExample", "d4/d67/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_arrowhead_example.html", null ],
+    [ "com.aarrelaakso.drawl.examples.ArrowheadSizeExample", "d3/d75/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_arrowhead_size_example.html", null ],
     [ "Comparable", null, [
       [ "com.aarrelaakso.drawl.Measure", "d9/df3/classcom_1_1aarrelaakso_1_1drawl_1_1_measure.html", null ],
       [ "com.aarrelaakso.drawl.SisuNumber", "d4/de1/classcom_1_1aarrelaakso_1_1drawl_1_1_sisu_number.html", null ]
