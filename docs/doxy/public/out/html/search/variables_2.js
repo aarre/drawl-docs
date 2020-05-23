@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['circle_410',['CIRCLE',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#af07aa0aa4f1de58f3eb19da4f8fc4ba2',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
-  ['classical_5ftikz_5frightarrow_411',['CLASSICAL_TIKZ_RIGHTARROW',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a2ad7fc532e223e6160cc8ac18aea591c',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
-  ['computer_5fmodern_5frightarrow_412',['COMPUTER_MODERN_RIGHTARROW',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#ad62a65c0f5a67f55d55bb27e5b4d6d10',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
-  ['crow_413',['CROW',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a737096505b608f3236b4a0dad32f72d2',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
-  ['curve_414',['CURVE',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a404e12e66371490b4e465777a3e9ff8c',1,'com::aarrelaakso::drawl::LineEnding::Type']]]
+  ['default_468',['DEFAULT',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a60839eb2ed0486a6f9f987c64d27e313',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
+  ['diamond_469',['DIAMOND',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#aa3ce0f93b6befa8383c516df010aeed4',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
+  ['disk_470',['DISK',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a14bdc0c42274d49c43f5da7a2920ec49',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
+  ['dot_471',['DOT',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a396196f34ff54525c071d7d061abd5f4',1,'com::aarrelaakso::drawl::LineEnding::Type']]]
 ];

@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['arc_5fbarb_406',['ARC_BARB',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#ad58d73beccd7d4d4ab015eca51fbc508',1,'com::aarrelaakso::drawl::LineEnding::Type']]]
+  ['bar_463',['BAR',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a0415f6a034f0037280f22697ad0d3fb2',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
+  ['box_464',['BOX',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a1a09668e1434b10944872ae23112e058',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
+  ['bracket_465',['BRACKET',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a2e689a2d9c5d72e21453e993b72d25d2',1,'com::aarrelaakso::drawl::LineEnding::Type']]]
 ];

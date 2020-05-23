@@ -2,6 +2,7 @@ var hierarchy =
 [
     [ "com.aarrelaakso.drawl.examples.ArrowheadExample", "d4/d67/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_arrowhead_example.html", null ],
     [ "com.aarrelaakso.drawl.examples.ArrowheadSizeExample", "d3/d75/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_arrowhead_size_example.html", null ],
+    [ "com.aarrelaakso.drawl.adoc.CircleDemo", "d7/d44/classcom_1_1aarrelaakso_1_1drawl_1_1adoc_1_1_circle_demo.html", null ],
     [ "Comparable", null, [
       [ "com.aarrelaakso.drawl.Measure", "d9/df3/classcom_1_1aarrelaakso_1_1drawl_1_1_measure.html", null ],
       [ "com.aarrelaakso.drawl.Number", "d5/d8a/interfacecom_1_1aarrelaakso_1_1drawl_1_1_number.html", [
@@ -11,7 +12,26 @@ var hierarchy =
     ] ],
     [ "com.aarrelaakso.drawl.Drawing", "d8/d0b/classcom_1_1aarrelaakso_1_1drawl_1_1_drawing.html", null ],
     [ "com.aarrelaakso.drawl.DrawlNumberRemainderPair", "d9/de9/classcom_1_1aarrelaakso_1_1drawl_1_1_drawl_number_remainder_pair.html", null ],
-    [ "com.aarrelaakso.drawl.LineEnding", "d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html", null ],
+    [ "com.aarrelaakso.drawl.LineEndingInterface", "dd/dc5/interfacecom_1_1aarrelaakso_1_1drawl_1_1_line_ending_interface.html", [
+      [ "com.aarrelaakso.drawl.LineEnding", "d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html", [
+        [ "com.aarrelaakso.drawl.LineEndingBar", "de/df0/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bar.html", null ],
+        [ "com.aarrelaakso.drawl.LineEndingBracket", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html", null ],
+        [ "com.aarrelaakso.drawl.LineEndingCircle", "d8/d5c/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_circle.html", null ],
+        [ "com.aarrelaakso.drawl.LineEndingDiamond", "d4/dee/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_diamond.html", null ],
+        [ "com.aarrelaakso.drawl.LineEndingDot", "d7/d89/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_dot.html", null ],
+        [ "com.aarrelaakso.drawl.LineEndingEllipse", "d4/de0/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_ellipse.html", null ],
+        [ "com.aarrelaakso.drawl.LineEndingOpenDiamond", "d7/d55/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_open_diamond.html", null ],
+        [ "com.aarrelaakso.drawl.LineEndingRectangle", "d9/d9b/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_rectangle.html", [
+          [ "com.aarrelaakso.drawl.LineEndingKite", "d5/d40/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_kite.html", null ],
+          [ "com.aarrelaakso.drawl.LineEndingSquare", "d3/d02/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_square.html", null ],
+          [ "com.aarrelaakso.drawl.LineEndingStealth", "d6/ddf/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_stealth.html", null ]
+        ] ],
+        [ "com.aarrelaakso.drawl.LineEndingReverse", "dd/d37/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_reverse.html", null ],
+        [ "com.aarrelaakso.drawl.LineEndingTriangle", "df/dfa/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_triangle.html", null ],
+        [ "com.aarrelaakso.drawl.LineEndingTurnedSquare", "d2/db8/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square.html", null ]
+      ] ]
+    ] ],
+    [ "com.aarrelaakso.drawl.examples.LineEndingSizeExample", "d2/d09/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_line_ending_size_example.html", null ],
     [ "com.aarrelaakso.drawl.examples.LineExample", "d6/d1c/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_line_example.html", null ],
     [ "com.aarrelaakso.drawl.LoggingConfig", "d9/de6/classcom_1_1aarrelaakso_1_1drawl_1_1_logging_config.html", null ],
     [ "com.aarrelaakso.drawl.examples.Nonadjacency", "db/d70/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_nonadjacency.html", null ],

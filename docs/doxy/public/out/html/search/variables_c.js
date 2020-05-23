@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['one_431',['ONE',['../d3/d74/classcom_1_1aarrelaakso_1_1drawl_1_1_drawl_number.html#a0cd06e1d6344869ed300bc99afcde20a',1,'com.aarrelaakso.drawl.DrawlNumber.ONE()'],['../d4/de1/classcom_1_1aarrelaakso_1_1drawl_1_1_sisu_number.html#ad74e537df980406b3282861605df259c',1,'com.aarrelaakso.drawl.SisuNumber.ONE()']]],
-  ['open_5fdiamond_432',['OPEN_DIAMOND',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a13f6d6fbec0c37e1b87096ceb067ee6b',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
-  ['open_5fdot_433',['OPEN_DOT',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a4c9d73e9e0f20637712c6a8183742eee',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
-  ['open_5fellipse_434',['OPEN_ELLIPSE',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#ac2a4c476b50f85245602abdbfe1bf8a7',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
-  ['opentype_435',['OpenType',['../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a79fa3953c05f8a1dfe1669fdda242ce2',1,'com::aarrelaakso::drawl::LineEnding']]]
+  ['tee_493',['TEE',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a58f67cf6cf471ec618c92e5f5a5bdc6e',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
+  ['triangle_494',['TRIANGLE',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a175880412926b2126d70c22ae7396009',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
+  ['turned_5fsquare_495',['TURNED_SQUARE',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#ae2bef871a847ab802cf25e83853a3372',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
+  ['two_496',['TWO',['../d3/d74/classcom_1_1aarrelaakso_1_1drawl_1_1_drawl_number.html#a2bb7476cfb1cc76e2742cd00feb463c3',1,'com.aarrelaakso.drawl.DrawlNumber.TWO()'],['../d4/de1/classcom_1_1aarrelaakso_1_1drawl_1_1_sisu_number.html#a699eb6b7e4648b4a8d888890b32e26f9',1,'com.aarrelaakso.drawl.SisuNumber.TWO()']]]
 ];

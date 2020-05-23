@@ -6,9 +6,8 @@ var searchData=
   ['addlineending_4',['addLineEnding',['../df/dbf/classcom_1_1aarrelaakso_1_1drawl_1_1_line.html#ae596a9a32b970e2b5157db03dc023afc',1,'com::aarrelaakso::drawl::Line']]],
   ['addtext_5',['addText',['../d2/dab/classcom_1_1aarrelaakso_1_1drawl_1_1_shape.html#af6fea9610721de462c18ee640043aba7',1,'com::aarrelaakso::drawl::Shape']]],
   ['angletoneighbor_6',['angleToNeighbor',['../d2/dab/classcom_1_1aarrelaakso_1_1drawl_1_1_shape.html#a0281d9f3d35d7ff5db2be3c3f9362c9f',1,'com::aarrelaakso::drawl::Shape']]],
-  ['arc_5fbarb_7',['ARC_BARB',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#ad58d73beccd7d4d4ab015eca51fbc508',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
-  ['arrowheadexample_8',['ArrowheadExample',['../d4/d67/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_arrowhead_example.html',1,'com::aarrelaakso::drawl::examples']]],
-  ['arrowheadexample_2ejava_9',['ArrowheadExample.java',['../dc/dd1/_arrowhead_example_8java.html',1,'']]],
-  ['arrowheadsizeexample_10',['ArrowheadSizeExample',['../d3/d75/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_arrowhead_size_example.html',1,'com::aarrelaakso::drawl::examples']]],
-  ['arrowheadsizeexample_2ejava_11',['ArrowheadSizeExample.java',['../d6/da4/_arrowhead_size_example_8java.html',1,'']]]
+  ['arrowheadexample_7',['ArrowheadExample',['../d4/d67/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_arrowhead_example.html',1,'com::aarrelaakso::drawl::examples']]],
+  ['arrowheadexample_2ejava_8',['ArrowheadExample.java',['../dc/dd1/_arrowhead_example_8java.html',1,'']]],
+  ['arrowheadsizeexample_9',['ArrowheadSizeExample',['../d3/d75/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_arrowhead_size_example.html',1,'com::aarrelaakso::drawl::examples']]],
+  ['arrowheadsizeexample_2ejava_10',['ArrowheadSizeExample.java',['../d6/da4/_arrowhead_size_example_8java.html',1,'']]]
 ];
