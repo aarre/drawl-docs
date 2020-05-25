@@ -1,9 +1,8 @@
 var searchData=
 [
-  ['shadedrectangles_277',['ShadedRectangles',['../d1/d1f/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_shaded_rectangles.html',1,'com::aarrelaakso::drawl::examples']]],
-  ['shape_278',['Shape',['../d2/dab/classcom_1_1aarrelaakso_1_1drawl_1_1_shape.html',1,'com::aarrelaakso::drawl']]],
-  ['shapeexplicit_279',['ShapeExplicit',['../d8/dbd/classcom_1_1aarrelaakso_1_1drawl_1_1_shape_explicit.html',1,'com::aarrelaakso::drawl']]],
-  ['sisunumber_280',['SisuNumber',['../d4/de1/classcom_1_1aarrelaakso_1_1drawl_1_1_sisu_number.html',1,'com::aarrelaakso::drawl']]],
-  ['sisunumberremainderpair_281',['SisuNumberRemainderPair',['../d9/d77/classcom_1_1aarrelaakso_1_1drawl_1_1_sisu_number_remainder_pair.html',1,'com::aarrelaakso::drawl']]],
-  ['svg_282',['SVG',['../d7/d81/classcom_1_1aarrelaakso_1_1drawl_1_1_s_v_g.html',1,'com::aarrelaakso::drawl']]]
+  ['text_210',['Text',['../dc/d94/classcom_1_1aarrelaakso_1_1drawl_1_1_text.html',1,'com::aarrelaakso::drawl']]],
+  ['textexample_211',['TextExample',['../de/dfb/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_text_example.html',1,'com::aarrelaakso::drawl::examples']]],
+  ['threecircleshorizontal_212',['ThreeCirclesHorizontal',['../d5/dfa/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_three_circles_horizontal.html',1,'com::aarrelaakso::drawl::examples']]],
+  ['threecirclesvertical_213',['ThreeCirclesVertical',['../d9/d63/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_three_circles_vertical.html',1,'com::aarrelaakso::drawl::examples']]],
+  ['type_214',['Type',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html',1,'com::aarrelaakso::drawl::LineEnding']]]
 ];

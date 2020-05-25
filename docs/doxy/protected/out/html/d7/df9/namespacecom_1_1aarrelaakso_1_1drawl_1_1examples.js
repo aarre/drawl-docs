@@ -1,7 +1,7 @@
 var namespacecom_1_1aarrelaakso_1_1drawl_1_1examples =
 [
-    [ "ArrowheadExample", "d4/d67/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_arrowhead_example.html", "d4/d67/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_arrowhead_example" ],
     [ "ArrowheadSizeExample", "d3/d75/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_arrowhead_size_example.html", "d3/d75/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_arrowhead_size_example" ],
+    [ "LineEndingExample", "d7/dc1/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_line_ending_example.html", "d7/dc1/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_line_ending_example" ],
     [ "LineEndingSizeExample", "d2/d09/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_line_ending_size_example.html", "d2/d09/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_line_ending_size_example" ],
     [ "LineExample", "d6/d1c/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_line_example.html", "d6/d1c/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_line_example" ],
     [ "Nonadjacency", "db/d70/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_nonadjacency.html", "db/d70/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_nonadjacency" ],

@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['one_163',['ONE',['../d3/d74/classcom_1_1aarrelaakso_1_1drawl_1_1_drawl_number.html#a0cd06e1d6344869ed300bc99afcde20a',1,'com.aarrelaakso.drawl.DrawlNumber.ONE()'],['../d4/de1/classcom_1_1aarrelaakso_1_1drawl_1_1_sisu_number.html#ad74e537df980406b3282861605df259c',1,'com.aarrelaakso.drawl.SisuNumber.ONE()']]],
-  ['open_5fdiamond_164',['OPEN_DIAMOND',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a13f6d6fbec0c37e1b87096ceb067ee6b',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
-  ['open_5fdot_165',['OPEN_DOT',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a4c9d73e9e0f20637712c6a8183742eee',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
-  ['opentype_166',['OpenType',['../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a79fa3953c05f8a1dfe1669fdda242ce2',1,'com::aarrelaakso::drawl::LineEnding']]],
-  ['orientation_167',['Orientation',['../d9/d88/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_1_1_orientation.html',1,'com::aarrelaakso::drawl::Line']]]
+  ['point_118',['Point',['../de/dd3/classcom_1_1aarrelaakso_1_1drawl_1_1_point.html',1,'com.aarrelaakso.drawl.Point'],['../de/dd3/classcom_1_1aarrelaakso_1_1drawl_1_1_point.html#a1eb402d4971df738ea66227c7c12cb70',1,'com.aarrelaakso.drawl.Point.Point()']]],
+  ['pow_119',['pow',['../d3/d74/classcom_1_1aarrelaakso_1_1drawl_1_1_drawl_number.html#a13f1ea57cce88e852cd7e01b0b3e8cf2',1,'com.aarrelaakso.drawl.DrawlNumber.pow()'],['../d4/de1/classcom_1_1aarrelaakso_1_1drawl_1_1_sisu_number.html#a72dee08eae0e9522da081b0c67481b44',1,'com.aarrelaakso.drawl.SisuNumber.pow()']]]
 ];

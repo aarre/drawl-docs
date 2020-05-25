@@ -15,6 +15,7 @@ var classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending =
     [ "setFill", "d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a1dde1309ce99539a629fe2a437bb3d15", null ],
     [ "setHeight", "d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a3bfe908c64b014deec248f3728293f87", null ],
     [ "setSize", "d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a57204338c02a32eb98be1965d56eebe7", null ],
+    [ "setStroke", "d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#aa30d98cbfccd8a66d39f99ba0a1d87f0", null ],
     [ "setWidth", "d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#ad36a28ce9761c312ac9adb5cc7dc1686", null ],
     [ "newLine", "d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a5225a6d47c9b728100114b4e38a996a7", null ],
     [ "OpenType", "d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a79fa3953c05f8a1dfe1669fdda242ce2", null ]

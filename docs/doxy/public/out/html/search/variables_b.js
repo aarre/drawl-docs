@@ -1,7 +1,4 @@
 var searchData=
 [
-  ['scale_5ffor_5fcomparisons_489',['SCALE_FOR_COMPARISONS',['../d3/d74/classcom_1_1aarrelaakso_1_1drawl_1_1_drawl_number.html#ace1cb62d1ecce8212578d1a13cf5cbc4',1,'com::aarrelaakso::drawl::DrawlNumber']]],
-  ['scale_5ffor_5foperations_490',['SCALE_FOR_OPERATIONS',['../d3/d74/classcom_1_1aarrelaakso_1_1drawl_1_1_drawl_number.html#ab9bb5bf4986830f56f01cb218ba637ce',1,'com::aarrelaakso::drawl::DrawlNumber']]],
-  ['square_491',['SQUARE',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#aef742b7c544e685f8e670db7a1b1cc4b',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
-  ['stealth_492',['STEALTH',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a36723b935663bf0b801d6e525d0625a9',1,'com::aarrelaakso::drawl::LineEnding::Type']]]
+  ['vertical_353',['VERTICAL',['../d9/d88/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_1_1_orientation.html#ae5abbefd554c0775da068445e8bd65ae',1,'com::aarrelaakso::drawl::Line::Orientation']]]
 ];

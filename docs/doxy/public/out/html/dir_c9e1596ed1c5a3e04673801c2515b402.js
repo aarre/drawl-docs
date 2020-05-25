@@ -1,10 +1,10 @@
 var dir_c9e1596ed1c5a3e04673801c2515b402 =
 [
-    [ "ArrowheadExample.java", "dc/dd1/_arrowhead_example_8java.html", [
-      [ "ArrowheadExample", "d4/d67/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_arrowhead_example.html", "d4/d67/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_arrowhead_example" ]
-    ] ],
     [ "ArrowheadSizeExample.java", "d6/da4/_arrowhead_size_example_8java.html", [
       [ "ArrowheadSizeExample", "d3/d75/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_arrowhead_size_example.html", "d3/d75/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_arrowhead_size_example" ]
+    ] ],
+    [ "LineEndingExample.java", "d9/d79/_line_ending_example_8java.html", [
+      [ "LineEndingExample", "d7/dc1/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_line_ending_example.html", "d7/dc1/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_line_ending_example" ]
     ] ],
     [ "LineEndingSizeExample.java", "d0/db9/_line_ending_size_example_8java.html", [
       [ "LineEndingSizeExample", "d2/d09/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_line_ending_size_example.html", "d2/d09/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_line_ending_size_example" ]

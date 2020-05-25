@@ -1,9 +1,5 @@
 var searchData=
 [
-  ['left_583',['LEFT',['../d2/dab/classcom_1_1aarrelaakso_1_1drawl_1_1_shape.html#a682479373a5944ae84fc33fd65324e9d',1,'com::aarrelaakso::drawl::Shape']]],
-  ['length_584',['length',['../d9/df3/classcom_1_1aarrelaakso_1_1drawl_1_1_measure.html#aef040b9b0dd7d4a925448d0854c2444a',1,'com::aarrelaakso::drawl::Measure']]],
-  ['lineending_585',['lineEnding',['../df/dbf/classcom_1_1aarrelaakso_1_1drawl_1_1_line.html#a8b339d5d292d8584536ba0c19478bb27',1,'com::aarrelaakso::drawl::Line']]],
-  ['lineendingtype_586',['lineEndingType',['../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a7b6b32b4eba870215b342b002dd08328',1,'com::aarrelaakso::drawl::LineEnding']]],
-  ['loadfactor_587',['loadFactor',['../d8/d0b/classcom_1_1aarrelaakso_1_1drawl_1_1_drawing.html#a853a2ba75750f3ece0036c3617ac169f',1,'com::aarrelaakso::drawl::Drawing']]],
-  ['logger_588',['logger',['../d8/d0b/classcom_1_1aarrelaakso_1_1drawl_1_1_drawing.html#a9ca07608ceeb04d747e114cd1a82a3f9',1,'com.aarrelaakso.drawl.Drawing.logger()'],['../d3/d74/classcom_1_1aarrelaakso_1_1drawl_1_1_drawl_number.html#ad2eb8e8b4021e0d474b39f06e81ff9e7',1,'com.aarrelaakso.drawl.DrawlNumber.logger()'],['../d2/dab/classcom_1_1aarrelaakso_1_1drawl_1_1_shape.html#ab9ce64789a45acc1bdd2cee046264ff6',1,'com.aarrelaakso.drawl.Shape.logger()']]]
+  ['mccomparisons_401',['mcComparisons',['../d3/d74/classcom_1_1aarrelaakso_1_1drawl_1_1_drawl_number.html#a520b230ee4ceb0e1bef368ace676a954',1,'com.aarrelaakso.drawl.DrawlNumber.mcComparisons()'],['../d5/d8a/interfacecom_1_1aarrelaakso_1_1drawl_1_1_number.html#ad58946b10553ff37f8b02913de34b664',1,'com.aarrelaakso.drawl.Number.mcComparisons()'],['../d4/de1/classcom_1_1aarrelaakso_1_1drawl_1_1_sisu_number.html#a09a6e4440f1be870727ad0bc028fc237',1,'com.aarrelaakso.drawl.SisuNumber.mcComparisons()']]],
+  ['mcoperations_402',['mcOperations',['../d3/d74/classcom_1_1aarrelaakso_1_1drawl_1_1_drawl_number.html#a75a2442ef7cdcfb4dca9aba870ee7108',1,'com.aarrelaakso.drawl.DrawlNumber.mcOperations()'],['../d5/d8a/interfacecom_1_1aarrelaakso_1_1drawl_1_1_number.html#aee829b12bd1d3dc81ecf7bdf4207f778',1,'com.aarrelaakso.drawl.Number.mcOperations()'],['../d4/de1/classcom_1_1aarrelaakso_1_1drawl_1_1_sisu_number.html#a526b69c7921d715b6b49ad98ecf442fc',1,'com.aarrelaakso.drawl.SisuNumber.mcOperations()']]]
 ];

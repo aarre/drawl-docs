@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['neighbor_591',['neighbor',['../d2/dab/classcom_1_1aarrelaakso_1_1drawl_1_1_shape.html#a57da030925a9bfc11bc49333b63a2e0f',1,'com::aarrelaakso::drawl::Shape']]],
-  ['newline_592',['newLine',['../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a5225a6d47c9b728100114b4e38a996a7',1,'com::aarrelaakso::drawl::LineEnding']]],
-  ['normal_593',['NORMAL',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a1f96f154af5043259b200495ec8b2af6',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
-  ['number_594',['number',['../d3/d74/classcom_1_1aarrelaakso_1_1drawl_1_1_drawl_number.html#a9fe9f40163a4f5581b35d61ecf63f278',1,'com.aarrelaakso.drawl.DrawlNumber.number()'],['../d9/de9/classcom_1_1aarrelaakso_1_1drawl_1_1_drawl_number_remainder_pair.html#a8c62602c155e6b1fe737605fe7229b36',1,'com.aarrelaakso.drawl.DrawlNumberRemainderPair.number()'],['../d4/de1/classcom_1_1aarrelaakso_1_1drawl_1_1_sisu_number.html#a5741c4131458787e3adb0bfe649d7758',1,'com.aarrelaakso.drawl.SisuNumber.number()'],['../d9/d77/classcom_1_1aarrelaakso_1_1drawl_1_1_sisu_number_remainder_pair.html#a7ff7c95e41cb9dfbccb419fc75d05706',1,'com.aarrelaakso.drawl.SisuNumberRemainderPair.number()']]]
+  ['open_5fdiamond_406',['OPEN_DIAMOND',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a13f6d6fbec0c37e1b87096ceb067ee6b',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
+  ['open_5fdot_407',['OPEN_DOT',['../d5/dfd/enumcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_1_1_type.html#a4c9d73e9e0f20637712c6a8183742eee',1,'com::aarrelaakso::drawl::LineEnding::Type']]],
+  ['opentype_408',['OpenType',['../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a79fa3953c05f8a1dfe1669fdda242ce2',1,'com::aarrelaakso::drawl::LineEnding']]],
+  ['orientation_409',['orientation',['../df/dbf/classcom_1_1aarrelaakso_1_1drawl_1_1_line.html#a441ce546831b219e01f5fd0f7e0bb3b1',1,'com::aarrelaakso::drawl::Line']]]
 ];

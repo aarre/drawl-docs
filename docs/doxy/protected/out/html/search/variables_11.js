@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['uniqueid_621',['uniqueId',['../d2/d07/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending.html#a7ccce97c8191c7126f82070cca18c6d0',1,'com::aarrelaakso::drawl::LineEnding']]]
+  ['zero_426',['ZERO',['../d3/d74/classcom_1_1aarrelaakso_1_1drawl_1_1_drawl_number.html#ae79e88954ed30a7f939cc62836fdc75c',1,'com.aarrelaakso.drawl.DrawlNumber.ZERO()'],['../d4/de1/classcom_1_1aarrelaakso_1_1drawl_1_1_sisu_number.html#ae9e547c1510ee19d5cc6401c828f1003',1,'com.aarrelaakso.drawl.SisuNumber.ZERO()']]]
 ];

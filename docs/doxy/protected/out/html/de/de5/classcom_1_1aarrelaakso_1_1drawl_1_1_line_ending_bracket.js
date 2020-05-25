@@ -1,5 +1,6 @@
 var classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket =
 [
+    [ "LineEndingBracket", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#a73d96e420e245a52005ac269d4ea2a33", null ],
     [ "createID", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#a62be485b51b20f24e6460635d61c333d", null ],
     [ "getFill", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#a838de2869466c0a21490f9203c6e3cd1", null ],
     [ "getHeight", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#a7e9bf066f13788bb3e0c0ab7c4e5c8bd", null ],
@@ -15,6 +16,7 @@ var classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket =
     [ "setFill", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#a1dde1309ce99539a629fe2a437bb3d15", null ],
     [ "setHeight", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#a3bfe908c64b014deec248f3728293f87", null ],
     [ "setSize", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#a57204338c02a32eb98be1965d56eebe7", null ],
+    [ "setStroke", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#aa30d98cbfccd8a66d39f99ba0a1d87f0", null ],
     [ "setWidth", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#ad36a28ce9761c312ac9adb5cc7dc1686", null ],
     [ "fill", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#a88fa959f8c06425f1a4ff614f8dc8585", null ],
     [ "height", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#a84643682cfecb234adc3b9486192e70a", null ],
@@ -22,7 +24,7 @@ var classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket =
     [ "lineEndingType", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#a7b6b32b4eba870215b342b002dd08328", null ],
     [ "newLine", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#a5225a6d47c9b728100114b4e38a996a7", null ],
     [ "OpenType", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#a79fa3953c05f8a1dfe1669fdda242ce2", null ],
-    [ "stroke", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#a932b800375a18a06b1a0a14abb03670a", null ],
+    [ "stroke", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#ae6935848f801443768e8569f48314be3", null ],
     [ "uniqueId", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#a7ccce97c8191c7126f82070cca18c6d0", null ],
     [ "width", "de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#ae3163a82454f7352eb6a4adfb35ce912", null ]
 ];

@@ -1,5 +1,6 @@
 var classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_ellipse =
 [
+    [ "LineEndingEllipse", "d4/de0/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_ellipse.html#a5d3e0b0f9375a322daf3f6c0ec9689ea", null ],
     [ "createID", "d4/de0/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_ellipse.html#a62be485b51b20f24e6460635d61c333d", null ],
     [ "getFill", "d4/de0/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_ellipse.html#a838de2869466c0a21490f9203c6e3cd1", null ],
     [ "getHeight", "d4/de0/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_ellipse.html#a7e9bf066f13788bb3e0c0ab7c4e5c8bd", null ],
@@ -14,6 +15,7 @@ var classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_ellipse =
     [ "setFill", "d4/de0/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_ellipse.html#a1dde1309ce99539a629fe2a437bb3d15", null ],
     [ "setHeight", "d4/de0/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_ellipse.html#a3bfe908c64b014deec248f3728293f87", null ],
     [ "setSize", "d4/de0/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_ellipse.html#a57204338c02a32eb98be1965d56eebe7", null ],
+    [ "setStroke", "d4/de0/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_ellipse.html#aa30d98cbfccd8a66d39f99ba0a1d87f0", null ],
     [ "setWidth", "d4/de0/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_ellipse.html#ad36a28ce9761c312ac9adb5cc7dc1686", null ],
     [ "newLine", "d4/de0/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_ellipse.html#a5225a6d47c9b728100114b4e38a996a7", null ],
     [ "OpenType", "d4/de0/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_ellipse.html#a79fa3953c05f8a1dfe1669fdda242ce2", null ]

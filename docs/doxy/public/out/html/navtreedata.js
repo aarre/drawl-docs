@@ -26,9 +26,6 @@ var NAVTREE =
 [
   [ "Drawl", "index.html", [
     [ "Main Page", "index.html", null ],
-    [ "Packages", "namespaces.html", [
-      [ "Packages", "namespaces.html", "namespaces_dup" ]
-    ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -47,10 +44,10 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html",
-"d4/de1/classcom_1_1aarrelaakso_1_1drawl_1_1_sisu_number.html#ab081d05ed15ab685b2dca36a987d5f63",
-"d8/d99/classcom_1_1aarrelaakso_1_1drawl_1_1_rectangle.html#aca08f18bbe102a5cf6a77cb746d42875",
-"de/de5/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_bracket.html#abcd997f18e77df27c85547f5c0359294"
+".html",
+"d4/de1/classcom_1_1aarrelaakso_1_1drawl_1_1_sisu_number.html#abf3f63611bbeb0505b3d6217ba140f9b",
+"d9/d63/classcom_1_1aarrelaakso_1_1drawl_1_1examples_1_1_three_circles_vertical.html#aa93a6ab32c6fbd8f349ca853361f4523",
+"df/dbf/classcom_1_1aarrelaakso_1_1drawl_1_1_line.html#a0aef56392d76202235a9520394e87492"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

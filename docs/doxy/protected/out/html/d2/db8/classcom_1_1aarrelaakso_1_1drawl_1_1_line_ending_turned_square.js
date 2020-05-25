@@ -15,6 +15,7 @@ var classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square =
     [ "setFill", "d2/db8/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square.html#a1dde1309ce99539a629fe2a437bb3d15", null ],
     [ "setHeight", "d2/db8/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square.html#a3bfe908c64b014deec248f3728293f87", null ],
     [ "setSize", "d2/db8/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square.html#a57204338c02a32eb98be1965d56eebe7", null ],
+    [ "setStroke", "d2/db8/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square.html#aa30d98cbfccd8a66d39f99ba0a1d87f0", null ],
     [ "setWidth", "d2/db8/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square.html#ad36a28ce9761c312ac9adb5cc7dc1686", null ],
     [ "fill", "d2/db8/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square.html#a88fa959f8c06425f1a4ff614f8dc8585", null ],
     [ "height", "d2/db8/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square.html#a84643682cfecb234adc3b9486192e70a", null ],
@@ -22,7 +23,7 @@ var classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square =
     [ "lineEndingType", "d2/db8/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square.html#a7b6b32b4eba870215b342b002dd08328", null ],
     [ "newLine", "d2/db8/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square.html#a5225a6d47c9b728100114b4e38a996a7", null ],
     [ "OpenType", "d2/db8/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square.html#a79fa3953c05f8a1dfe1669fdda242ce2", null ],
-    [ "stroke", "d2/db8/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square.html#a932b800375a18a06b1a0a14abb03670a", null ],
+    [ "stroke", "d2/db8/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square.html#ae6935848f801443768e8569f48314be3", null ],
     [ "uniqueId", "d2/db8/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square.html#a7ccce97c8191c7126f82070cca18c6d0", null ],
     [ "width", "d2/db8/classcom_1_1aarrelaakso_1_1drawl_1_1_line_ending_turned_square.html#ae3163a82454f7352eb6a4adfb35ce912", null ]
 ];
